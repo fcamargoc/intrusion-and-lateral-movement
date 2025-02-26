@@ -1,4 +1,4 @@
-## intrusion-and-lateral-movement
+# intrusion-and-lateral-movement
 Laboratorio con fines educativos.
 
 ### Objetivo

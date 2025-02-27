@@ -74,7 +74,7 @@ De esta manera y si contamos con los permisos necesarios ya podriamos copiar, el
 
 Este laboratorio permitió comprender y aplicar técnicas de intrusión y movimiento lateral dentro de un entorno controlado, con el objetivo de evaluar la seguridad de una infraestructura. Durante el proceso, se utilizaron herramientas como Shodan para el reconocimiento de objetivos, Hydra para ataques de fuerza bruta y métodos de validación de acceso a sistemas de archivos.
 
- ##aprendizajes del laboratorio:
+ ## aprendizajes del laboratorio:
 
 - La importancia del reconocimiento en una prueba de penetración, ya que permite identificar objetivos accesibles en internet.
 - El uso de ataques de fuerza bruta como técnica para obtener credenciales de acceso, demostrando la relevancia de implementar políticas de contraseñas seguras.

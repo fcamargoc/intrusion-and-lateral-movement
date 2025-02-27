@@ -37,7 +37,7 @@ abrimos una terminal en modo root y nos debemos dirigir a la ruta donde se encue
 
 estan alli ejecutamos el siguiente script 
 
-hydra -l <nombre de usuario> -P <ruta de la lista de contraseñas> <dirección IP pública de tu VM en Azure> <protocolo>
+hydra -l <nombre de usuario> -P <ruta de la lista de contraseñas> <dirección IP pública> <protocolo>
 
 hydra -L users.txt -P password.txt 172.191.63.195 ssh
 

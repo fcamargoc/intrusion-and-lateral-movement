@@ -54,6 +54,29 @@ ssh ADMINISTRADOR@172.191.63.195
 ![image](https://github.com/user-attachments/assets/95bbefd6-8b00-491f-8a0c-c2df65f4689f)
 
 
+Ya realizada la intrusion vamos a confirmar si este servidor cuenta con algun servicio de file system, ejecutamos el siguiente comando:
+
+df -h | grep "/mnt"
+
+Una salida esperada seria la siguiente:
+
+![image](https://github.com/user-attachments/assets/a6988b47-a69d-46d9-8693-f6f68bd4660a)
+
+como se observa en la imagen si cuenta con un servicio de file system. con esta confirmacion ya podemos ingresar a toda la informacion compartida. por lo general la ruta es la siguiente ./mnt
 
 
+![image](https://github.com/user-attachments/assets/aaa55bd3-f176-4d20-8d47-f5b61d91febe)
+
+De esta manera y si contamos con los permisos necesarios ya podriamos copiar, eliminar, mover, etc. toda la informacion que se encuentra alli.
+
+
+## Conclusion 
+
+Este laboratorio permitió comprender y aplicar técnicas de intrusión y movimiento lateral dentro de un entorno controlado, con el objetivo de evaluar la seguridad de una infraestructura. Durante el proceso, se utilizaron herramientas como Shodan para el reconocimiento de objetivos, Hydra para ataques de fuerza bruta y métodos de validación de acceso a sistemas de archivos.
+
+ ##aprendizajes del laboratorio:
+
+- La importancia del reconocimiento en una prueba de penetración, ya que permite identificar objetivos accesibles en internet.
+- El uso de ataques de fuerza bruta como técnica para obtener credenciales de acceso, demostrando la relevancia de implementar políticas de contraseñas seguras.
+- La exploración de servicios de almacenamiento dentro del servidor comprometido, lo que evidencia el riesgo de una mala configuración en la gestión de permisos y accesos.
 

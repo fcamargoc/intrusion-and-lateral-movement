@@ -2,7 +2,7 @@
 Laboratorio con fines educativos.
 
 ### Objetivo
-Evaluar la seguridad de la red objetivo mediante la simulación de una intrusión y movimiento lateral para identificar vulnerabilidades explotables.
+Evaluar la seguridad de red y los controles de acceso. mediante la simulación de una intrusión y movimiento lateral para identificar vulnerabilidades explotables.
 
 ### Fase 1 Reconocimiento
 

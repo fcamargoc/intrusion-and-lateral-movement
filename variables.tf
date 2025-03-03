@@ -20,5 +20,5 @@ variable "admin_password" {
 
 variable "suscripcion" {
   description = "suscripcion id"
-  default     = "a3996526-94a8-46ec-a6e3-8b462b18596b"
+  default     = "tusubscriptionID"
 }

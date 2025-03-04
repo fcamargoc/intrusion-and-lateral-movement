@@ -80,3 +80,8 @@ Este laboratorio permitió comprender y aplicar técnicas de intrusión y movimi
 - El uso de ataques de fuerza bruta como técnica para obtener credenciales de acceso, demostrando la relevancia de implementar políticas de contraseñas seguras.
 - La exploración de servicios de almacenamiento dentro del servidor comprometido, lo que evidencia el riesgo de una mala configuración en la gestión de permisos y accesos.
 
+
+## Arquitectura de referencia:
+
+![image](https://github.com/user-attachments/assets/9edaba6e-b838-4e68-a9c2-98f15a5a83c5)
+

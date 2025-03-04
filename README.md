@@ -4,6 +4,13 @@ Laboratorio con fines educativos.
 ### Objetivo
 Evaluar la seguridad de red y los controles de acceso. mediante la simulación de una intrusión y movimiento lateral para identificar vulnerabilidades explotables.
 
+
+
+## Arquitectura de referencia:
+
+![image](https://github.com/user-attachments/assets/9edaba6e-b838-4e68-a9c2-98f15a5a83c5)
+
+
 ### Fase 1 Reconocimiento
 
 El primer paso para toda prueba de prenetracion es realizar un reconomiento del objetivo ha atacar, en esta oportunidad vamos a utilizar una herramienta de OSINT
@@ -80,8 +87,4 @@ Este laboratorio permitió comprender y aplicar técnicas de intrusión y movimi
 - El uso de ataques de fuerza bruta como técnica para obtener credenciales de acceso, demostrando la relevancia de implementar políticas de contraseñas seguras.
 - La exploración de servicios de almacenamiento dentro del servidor comprometido, lo que evidencia el riesgo de una mala configuración en la gestión de permisos y accesos.
 
-
-## Arquitectura de referencia:
-
-![image](https://github.com/user-attachments/assets/9edaba6e-b838-4e68-a9c2-98f15a5a83c5)
 
